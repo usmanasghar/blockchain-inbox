@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanasghar/blockchain-inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmanasghar/blockchain-inbox/issues"
+  },
+  "homepage": "https://github.com/usmanasghar/blockchain-inbox#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.21",
+    "web3": "^4.2.0"
+  }
+}
